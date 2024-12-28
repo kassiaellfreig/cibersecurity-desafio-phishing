@@ -14,7 +14,7 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Custom Import ```
 - Pagina copiada para o diretorio interno: ```www.facebook.com```
-- Remover script de segurança da pagina copiada: ```https://github.com/RLLKLLSS/cibersecurity-desafio-phishing/blob/master/README.md```
+- Remover script de segurança da pagina copiada: https://github.com/RLLKLLSS/cibersecurity-desafio-phishing/blob/master/README.md
 - De onde copiar: ```Copy the entire folder```
 - URL para clone: http://www.facebook.com
 
