@@ -20,8 +20,8 @@
 
 ### Resutados
 
-# Página clonada
+#### Página clonada
 ![Alt text](./login.png "Optional title")
 
-# Credenciais
+##### Credenciais
 ![Alt text](./resultado.png "Optional title")
